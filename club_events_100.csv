@@ -1,0 +1,101 @@
+Club_ID,Club_Name,Event_Name,Event_Type,Date,Attendance,Budget_Used,Success_Rating,Impact_Score
+1,Yoga Society,Event Zeta,Cultural,26/12/24,32,6160,4.7,6.4
+2,Swimming Team,Event Zeta,Wellness,15/12/24,149,3582,4.0,8.7
+3,Cycling Club,Event Kappa,Wellness,09/11/24,185,5042,4.3,8.3
+4,Pre-Health Society,Event Zeta,Community Service,06/08/24,91,4331,4.4,8.9
+5,Cultural Association,Event Epsilon,Cultural,05/12/24,126,4944,3.5,7.9
+6,Yoga Society,Event Gamma,Competition,24/09/24,208,3918,3.7,7.9
+7,Hiking Adventure Club,Event Alpha,Performance,27/11/24,183,7290,4.6,7.3
+8,Debate Union,Event Sigma,Performance,21/10/24,148,7689,3.9,6.2
+9,Fitness Club,Event Theta,Educational,06/12/24,26,2014,3.6,6.3
+10,Yoga Society,Event Kappa,Competition,16/08/24,271,8003,3.9,7.5
+11,Swimming Team,Event Alpha,Wellness,16/12/24,160,4114,3.7,6.1
+12,Business Society,Event Epsilon,Community Service,24/12/24,26,1317,4.7,9.3
+13,Dance Company,Event Delta,Competition,30/11/24,33,7108,3.6,8.4
+14,Chess Club at UCSB,Event Theta,Competition,30/12/24,244,6127,4.9,8.3
+15,Swimming Team,Event Theta,Recreational,08/10/24,296,7947,4.0,6.9
+16,Yoga Society,Event Zeta,Community Service,08/08/24,167,8488,4.0,6.6
+17,Gaming Alliance,Event Omega,Community Service,22/11/24,155,3262,3.7,10.0
+18,Robotics Club,Event Sigma,Community Service,30/10/24,268,7493,3.9,7.9
+19,Cultural Association,Event Zeta,Technical,26/09/24,43,8481,4.5,9.7
+20,Swimming Team,Event Zeta,Sports,20/10/24,159,4720,4.2,9.2
+21,Gaming Alliance,Event Alpha,Performance,24/09/24,196,6986,3.7,7.7
+22,Chess Club at UCSB,Event Omega,Community Service,20/12/24,261,5912,4.3,9.5
+23,Cultural Association,Event Theta,Technical,23/08/24,296,8197,4.4,9.4
+24,Swimming Team,Event Kappa,Leadership,25/10/24,82,8255,4.0,9.9
+25,Robotics Club,Event Sigma,Community Service,21/10/24,31,3887,4.3,8.0
+26,Pre-Health Society,Event Gamma,Educational,23/09/24,234,2300,4.2,7.7
+27,Literature Society,Event Epsilon,Cultural,29/08/24,104,6103,3.8,9.5
+28,Greek Council,Event Beta,Professional,18/10/24,240,4673,4.0,7.6
+29,Debate Union,Event Alpha,Professional,11/10/24,300,5647,4.8,9.6
+30,Business Society,Event Theta,Recreational,19/08/24,59,5652,4.3,7.0
+31,Film & Media Club,Event Zeta,Cultural,27/11/24,48,4194,4.0,9.4
+32,Tennis Club,Event Omega,Professional,25/11/24,258,751,4.5,6.4
+33,Swimming Team,Event Alpha,Wellness,07/12/24,242,2551,3.8,8.4
+34,Engineering United,Event Gamma,Competition,09/11/24,231,4257,4.2,6.2
+35,Music Collective,Event Alpha,Leadership,08/08/24,162,7764,4.1,7.5
+36,Environmental Coalition,Event Theta,Community Service,30/08/24,149,6599,4.6,7.6
+37,Film & Media Club,Event Epsilon,Leadership,22/10/24,234,9134,4.3,9.4
+38,Pre-Health Society,Event Sigma,Sports,18/09/24,145,8504,4.4,6.3
+39,Fitness Club,Event Beta,Leadership,20/12/24,124,8894,4.9,8.7
+40,Data Science UCSB,Event Theta,Cultural,27/11/24,118,5304,3.6,8.2
+41,Dance Company,Event Omega,Social,30/10/24,253,8989,3.5,8.1
+42,Psychology Club,Event Epsilon,Leadership,15/10/24,174,7953,4.2,9.7
+43,Music Collective,Event Omega,Community Service,11/09/24,190,547,4.6,8.4
+44,Meditation Club,Event Zeta,Community Service,13/12/24,248,7807,4.0,9.5
+45,Meditation Club,Event Zeta,Sports,28/11/24,105,787,4.4,7.4
+46,Chess Club at UCSB,Event Delta,Technical,22/11/24,113,7978,4.5,10.0
+47,Chess Club at UCSB,Event Sigma,Wellness,21/12/24,34,3584,3.9,7.9
+48,Tennis Club,Event Beta,Leadership,16/12/24,256,3486,4.5,8.9
+49,Hiking Adventure Club,Event Kappa,Recreational,04/12/24,249,8681,3.8,6.2
+50,Pre-Health Society,Event Delta,Performance,31/08/24,287,9182,3.5,7.3
+51,Music Collective,Event Delta,Technical,16/11/24,266,9574,3.8,7.1
+52,Meditation Club,Event Theta,Professional,24/08/24,24,9470,4.9,9.0
+53,Gaming Alliance,Event Gamma,Technical,29/08/24,259,8375,4.9,6.9
+54,Environmental Coalition,Event Theta,Performance,19/12/24,257,2317,4.5,8.0
+55,Business Society,Event Gamma,Technical,25/10/24,137,5581,3.7,8.8
+56,Meditation Club,Event Omega,Professional,27/10/24,171,2709,3.5,8.2
+57,Volunteer Corps,Event Omega,Social,20/11/24,199,7859,4.8,7.4
+58,Chess Club at UCSB,Event Sigma,Technical,13/11/24,163,6012,3.7,7.0
+59,Swimming Team,Event Theta,Leadership,02/08/24,72,5333,4.1,7.0
+60,Cultural Association,Event Epsilon,Wellness,28/12/24,78,3742,4.3,6.5
+61,Theater Guild,Event Zeta,Technical,03/11/24,281,3273,4.6,8.3
+62,Meditation Club,Event Gamma,Social,30/12/24,252,9977,4.7,6.2
+63,Theater Guild,Event Gamma,Professional,23/09/24,228,9115,3.7,7.7
+64,Soccer Club,Event Zeta,Sports,01/08/24,125,4851,4.4,7.1
+65,Data Science UCSB,Event Kappa,Competition,17/08/24,256,614,3.8,9.7
+66,Music Collective,Event Sigma,Recreational,12/09/24,105,1201,3.8,6.6
+67,Culinary Club,Event Zeta,Competition,30/11/24,35,4439,3.8,8.6
+68,Yoga Society,Event Beta,Educational,02/08/24,233,6683,4.2,6.3
+69,Soccer Club,Event Delta,Sports,11/11/24,211,3540,4.1,9.9
+70,Debate Union,Event Gamma,Recreational,14/08/24,240,3138,4.5,8.6
+71,Music Collective,Event Alpha,Social,17/11/24,235,8537,4.3,8.8
+72,Tennis Club,Event Delta,Community Service,19/12/24,157,6620,3.7,8.1
+73,Hiking Adventure Club,Event Alpha,Performance,03/10/24,57,3270,4.1,6.6
+74,Psychology Club,Event Delta,Leadership,27/09/24,44,4779,4.6,9.6
+75,Tennis Club,Event Zeta,Social,05/12/24,37,3561,3.8,9.7
+76,Chess Club at UCSB,Event Kappa,Leadership,19/10/24,160,9050,4.5,6.7
+77,Literature Society,Event Theta,Performance,29/11/24,24,3032,4.5,7.9
+78,Music Collective,Event Alpha,Professional,19/11/24,138,4047,4.4,8.6
+79,Dance Company,Event Omega,Competition,12/11/24,74,8177,4.1,9.7
+80,Dance Company,Event Kappa,Competition,22/12/24,173,1269,3.9,9.0
+81,Volunteer Corps,Event Epsilon,Community Service,11/10/24,298,4553,4.0,7.3
+82,Environmental Coalition,Event Kappa,Community Service,08/08/24,182,7926,4.0,9.1
+83,Soccer Club,Event Beta,Technical,28/10/24,187,9963,4.6,9.8
+84,Swimming Team,Event Theta,Social,08/09/24,145,6886,4.9,8.6
+85,Photography Society,Event Zeta,Cultural,06/10/24,271,2435,4.8,7.0
+86,Robotics Club,Event Beta,Educational,18/10/24,82,3856,4.2,7.5
+87,Engineering United,Event Gamma,Social,14/12/24,295,7491,4.5,7.0
+88,Soccer Club,Event Sigma,Social,22/09/24,114,9737,4.3,6.8
+89,Yoga Society,Event Gamma,Wellness,07/12/24,298,943,4.8,7.7
+90,Film & Media Club,Event Theta,Community Service,08/12/24,242,4590,3.7,9.6
+91,Hiking Adventure Club,Event Beta,Cultural,03/11/24,121,9133,4.6,8.9
+92,Engineering United,Event Zeta,Professional,29/10/24,240,2805,4.1,8.9
+93,Debate Union,Event Delta,Recreational,15/11/24,292,7147,4.0,9.1
+94,Yoga Society,Event Sigma,Technical,04/10/24,71,666,4.6,6.6
+95,Environmental Coalition,Event Zeta,Recreational,02/09/24,268,1406,4.2,6.8
+96,Theater Guild,Event Sigma,Cultural,17/08/24,118,6514,5.0,9.1
+97,Theater Guild,Event Gamma,Cultural,05/08/24,226,1655,3.6,6.3
+98,Student Government,Event Beta,Cultural,25/08/24,169,8675,4.5,6.1
+99,Culinary Club,Event Beta,Professional,24/12/24,91,9107,3.9,6.8
+100,Music Collective,Event Kappa,Community Service,25/10/24,96,8357,4.4,6.9
